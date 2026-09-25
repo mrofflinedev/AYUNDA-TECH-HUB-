@@ -16,7 +16,7 @@ Kakamega, Kenya
 ### 🔗 Live Links
 - **Green Nature Foundation Africa:** https://gnfa-mu.vercel.app
 - **Portfolio:** (Add your Vercel link here after deploy)
-- **Ayunda Tech Solutions:** Coming soon
+- **Ayunda Tech Solutions:** [Visit Ayunda Tech](ayunda-tech-hubgen-store.vercel.app)
 
 ### 💼 What I Build
 - Business Websites (Salons, Schools, Shops, Clinics)
