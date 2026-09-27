@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://collins-portfolio-liard.vercel.app/sitemap.xml
